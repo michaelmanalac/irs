@@ -1,2 +1,0 @@
-# irs
-Interest Rate System
